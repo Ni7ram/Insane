@@ -1,0 +1,39 @@
+---------
+Objetivo:
+---------
+
+Durar la mayor cantidad de tiempo antes de que te estrelles contra un.. oso?.
+
+----------
+Controles:
+----------
+
+  W     | Arriba
+  S     | Abajo
+  A     | Izquierda
+  D     | Derecha
+        | 
+  Mouse | Mira
+        |  
+  ESC   | Ir al Menu
+        | 
+  +     | Subir Volumen
+        |
+  -     | Bajar Volumen 
+        | 
+ SPACE  | Bullet Time
+
+
+PD: hay 2 trucos muajajajaja
+
+----------------
+Agradecimientos:
+----------------
+
+Doctor in Vitro (x3)
+Blade  (x2)
+Luis
+
+
+
+nitram@codeminds.com.ar                                       nitram007@gmail.com
